@@ -1,0 +1,22 @@
+Partlist exported from C:/Users/Masato/Documents/citbrains/FootForceSensor/FootForceSensor_ver1_0.sch at 2022/09/08 15:05
+
+Qty Value                  Device                 Package                Parts                                               Description                
+3                          LEDSML0603             SML0603                LED1, LED2, LED3                                    LED                        
+5   0.1u                   C-USC0603              C0603                  C4, C7, C11, C15, C17                               CAPACITOR, American symbol 
+6   10k                    R-US_R0603             R0603                  R13, R14, R15, R16, R17, R18                        RESISTOR, American symbol  
+4   10u                    C-USC0603              C0603                  C18, C19, C20, C21                                  CAPACITOR, American symbol 
+1   120                    R-US_R0603             R0603                  R20                                                 RESISTOR, American symbol  
+7   1k                     R-US_R0603             R0603                  R3, R6, R9, R12, R22, R23, R24                      RESISTOR, American symbol  
+12  1u                     C-USC0603              C0603                  C1, C2, C3, C5, C6, C8, C9, C10, C12, C13, C14, C16 CAPACITOR, American symbol 
+4   20k                    R-US_R0603             R0603                  R1, R4, R7, R10                                     RESISTOR, American symbol  
+2   680                    R-US_R0603             R0603                  R19, R21                                            RESISTOR, American symbol  
+4   8.2k                   R-US_R0603             R0603                  R2, R5, R8, R11                                     RESISTOR, American symbol  
+1   ADM3078E               ADM3078E               ADM3078E               IC5                                                                            
+3   BSS138                 BSS138                 BSS138                 T5, T6, T7                                                                     
+4   HX711                  HX711                  HX711                  IC1, IC2, IC3, IC4                                                             
+1   LD1117S50              LD1117S50              SOT-223                U2                                                                             
+1   LM1117GS-3.3           LM1117GS-3.3           SOT-223                U1                                                                             
+4   MMBT3906               PNPSOT23               SOT-23                 T1, T2, T3, T4                                      PNP TRANSISTOR             
+1   PRO_MICRO_THROUGH_HOLE PRO_MICRO_THROUGH_HOLE PRO_MICRO_THROUGH_HOLE M1                                                                             
+5   S4B-XH-A               S4B-XH-A               S4B-XH-A               CH1, CH2, CH3, CH4, CH5                                                        
+1   SHORTLAND              SHORTLAND              SHORTLAND              JP1                                                                            
