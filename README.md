@@ -119,21 +119,21 @@
                 <td> IC5 </td>
                 <td> 1 </td>
                 <td> ADM3078E </td>
-                <td> <a href="https://www.mouser.jp/ProductDetail/Analog-Devices/ADM3078EARZ?qs=BpaRKvA4VqGLm2ZAElC2YA%3D%3D">Mouser</a> </td>
+                <td> <a href="https://www.mouser.jp/ProductDetail/584-ADM3078EARZ">Mouser</a> </td>
                 <td> RS-485/RS-422 Transceiver (Half Duplex, 16 Mbps, DE/RE) </td>
               </tr>
               <tr>
                 <td> LED1, LED2, LED3 </td>
                 <td> 3 </td>
                 <td> 150060VS86000 </td>
-                <td> <a href="https://www.mouser.jp/ProductDetail/Wurth-Elektronik/150060VS86000?qs=GedFDFLaBXGW9qOjzZ1Hmw%3D%3D">Mouser</a> </td>
+                <td> <a href="https://www.mouser.jp/ProductDetail/710-150060VS86000">Mouser</a> </td>
                 <td> Standard LEDs - SMD Green 2V 20mA 573nm 0603 </td>
               </tr>
               <tr>
                 <td> M1 </td>
                 <td> 1 </td>
                 <td> DEV-12640 </td>
-                <td> <a href="https://www.mouser.jp/ProductDetail/SparkFun/DEV-12640?qs=WyAARYrbSnb2ipr1B6qalg%3D%3D">Mouser</a> </td>
+                <td> <a href="https://www.mouser.jp/ProductDetail/474-DEV-12640">Mouser</a> </td>
                 <td> Development Boards & Kits - AVR Pro Micro - 5V/16MHz </td>
               </tr>
               <tr>
@@ -154,42 +154,42 @@
                 <td> R1, R4, R7, R10 </td>
                 <td> 4 </td>
                 <td> RC0603FR-1320KL </td>
-                <td> <a href="https://www.mouser.jp/ProductDetail/YAGEO/RC0603FR-1320KL?qs=IuGqVx9wL0IHnJWDv3yLdA%3D%3D">Mouser</a> </td>
+                <td> <a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-1320KL">Mouser</a> </td>
                 <td> Thick Film Resistors - SMD 20 kOhms 100-200mW 1% 0603 </td>
               </tr>
               <tr>
                 <td> R13, R14, R15, R16, R17, R18 </td>
                 <td> 6 </td>
                 <td> RC0603FR-1010KL </td>
-                <td> <a href="https://www.mouser.jp/ProductDetail/YAGEO/RC0603FR-1010KL?qs=EiqXWrxQq62Qjatj%252Bv7pew%3D%3D">Mouser</a> </td>
+                <td> <a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-1010KL">Mouser</a> </td>
                 <td> Thick Film Resistors - SMD 10 kOhms 100-200mW 1% 0603 </td>
               </tr>
               <tr>
                 <td> R19, R21 </td>
                 <td> 2 </td>
                 <td> RC0603FR-10680RL </td>
-                <td> <a href="https://www.mouser.jp/ProductDetail/YAGEO/RC0603FR-10680RL?qs=kV3c90BOhBEc15QHcN6V1g%3D%3D">Mouser</a> </td>
+                <td> <a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-10680RL">Mouser</a> </td>
                 <td> Thick Film Resistors - SMD 680 Ohms 100-200mW 1% 0603 </td>
               </tr>
               <tr>
                 <td> R2, R5, R8, R11 </td>
                 <td> 4 </td>
                 <td> RC0603FR-138K2L </td>
-                <td> <a href="https://www.mouser.jp/ProductDetail/YAGEO/RC0603FR-138K2L?qs=IuGqVx9wL0Isph5mcpiXTQ%3D%3D">Mouser</a> </td>
+                <td> <a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-138K2L">Mouser</a> </td>
                 <td> Thick Film Resistors - SMD 8.2 kOhms 100-200mW 1% 0603 </td>
               </tr>
               <tr>
                 <td> R20 </td>
                 <td> 1 </td>
                 <td> RC0603FR-10120RL </td>
-                <td> <a href="https://www.mouser.jp/ProductDetail/YAGEO/RC0603FR-10120RL?qs=EiqXWrxQq62dlPwl17gZoA%3D%3D">Mouser</a> </td>
+                <td> <a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-10120RL">Mouser</a> </td>
                 <td> Thick Film Resistors - SMD 120 Ohms 100-200mW 1% 0603 </td>
               </tr>
               <tr>
                 <td> R3, R6, R9, R12, R22, R23, R24 </td>
                 <td> 7 </td>
                 <td> RC0603FR-101KL </td>
-                <td> <a href="https://www.mouser.jp/ProductDetail/YAGEO/RC0603FR-101KL?qs=EiqXWrxQq63MM0wzm69ZKg%3D%3D">Mouser</a> </td>
+                <td> <a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-101KL">Mouser</a> </td>
                 <td> Thick Film Resistors - SMD 1 kOhms 100-200mW 1% 0603 </td>
               </tr>
               <tr>
